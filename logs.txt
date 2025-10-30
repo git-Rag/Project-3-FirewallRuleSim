@@ -1,0 +1,2 @@
+2025-10-31 03:37:59.685747 - Checked IP 192.168.1.10, Port 22 -> ✅ Access granted for IP 192.168.1.10. Port 22 is ALLOWED.
+2025-10-31 03:38:20.872066 - Checked IP 192.168.1.9, Port 80 -> ⚠️ IP 192.168.1.9 not explicitly listed. Default action: BLOCKED. Port 80 is ALLOWED.
